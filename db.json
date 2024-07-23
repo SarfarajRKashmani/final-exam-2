@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "3456",
+      "username": "sk",
+      "email": "sk@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "8f9c",
+      "username": "sam",
+      "email": "sam@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "courses": [
+    {
+      "id": "5664",
+      "title": "js",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220714150931/JavaScript-Introduction.jpg",
+      "description": "learn js"
+    }
+  ],
+  "purchases": []
+}
